@@ -1,0 +1,8 @@
+{
+    "k": 3,
+    "weighting": "softmax",
+    "tau": 0.05,
+    "min_sim": 0.60,
+    "angle_window": 35,
+    "crop_frac": 0.85
+}

@@ -1,0 +1,11 @@
+image,phi_gt,phi_pred,phi_err,theta_gt,theta_pred,theta_err,roll_gt,roll_pred,roll_err
+C:\Users\enter\OneDrive\Desktop\mini-project\project v1.1\images_test\image_01.jpg,10.0,359.9314284993755,10.068571500624557,0.0,0.0,0.0,0.0,0.0,0.0
+C:\Users\enter\OneDrive\Desktop\mini-project\project v1.1\images_test\image_02.jpg,45.0,45.44526866010335,0.445268660103352,0.0,0.0,0.0,0.0,0.0,0.0
+C:\Users\enter\OneDrive\Desktop\mini-project\project v1.1\images_test\image_03.jpg,80.0,70.46170543972141,9.538294560278587,0.0,0.0,0.0,0.0,0.0,0.0
+C:\Users\enter\OneDrive\Desktop\mini-project\project v1.1\images_test\image_04.jpg,120.0,107.54109443087253,12.458905569127467,0.0,0.0,0.0,0.0,0.0,0.0
+C:\Users\enter\OneDrive\Desktop\mini-project\project v1.1\images_test\image_05.jpg,155.0,157.6974050291933,2.6974050291933054,0.0,0.0,0.0,0.0,0.0,0.0
+C:\Users\enter\OneDrive\Desktop\mini-project\project v1.1\images_test\image_06.jpg,190.0,183.19617902178163,6.8038209782183685,0.0,0.0,0.0,0.0,0.0,0.0
+C:\Users\enter\OneDrive\Desktop\mini-project\project v1.1\images_test\image_07.jpg,225.0,244.852033956009,19.852033956008995,0.0,0.0,0.0,0.0,0.0,0.0
+C:\Users\enter\OneDrive\Desktop\mini-project\project v1.1\images_test\image_08.jpg,260.0,271.21004657396475,11.210046573964746,0.0,0.0,0.0,0.0,0.0,0.0
+C:\Users\enter\OneDrive\Desktop\mini-project\project v1.1\images_test\image_09.jpg,300.0,301.9868713426642,1.9868713426641875,0.0,0.0,0.0,0.0,0.0,0.0
+C:\Users\enter\OneDrive\Desktop\mini-project\project v1.1\images_test\image_10.jpg,335.0,342.4800843869426,7.480084386942622,0.0,0.0,0.0,0.0,0.0,0.0
