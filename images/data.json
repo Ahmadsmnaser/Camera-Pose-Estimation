@@ -1,0 +1,102 @@
+{
+  "image_01.jpg": {
+    "theta": 0.0,
+    "phi": 0.0,
+    "roll": 0.0
+  },
+  "image_02.jpg": {
+    "theta": 0.0,
+    "phi": 20.0,
+    "roll": 0.0
+  },
+  "image_03.jpg": {
+    "theta": 0.0,
+    "phi": 35.0,
+    "roll": 0.0
+  },
+  "image_04.jpg": {
+    "theta": 0.0,
+    "phi": 55.0,
+    "roll": 0.0
+  },
+  "image_05.jpg": {
+    "theta": 0.0,
+    "phi": 70.0,
+    "roll": 0.0
+  },
+  "image_06.jpg": {
+    "theta": 0.0,
+    "phi": 90.0,
+    "roll": 0.0
+  },
+  "image_07.jpg": {
+    "theta": 0.0,
+    "phi": 110.0,
+    "roll": 0.0
+  },
+  "image_08.jpg": {
+    "theta": 0.0,
+    "phi": 125.0,
+    "roll": 0.0
+  },
+  "image_09.jpg": {
+    "theta": 0.0,
+    "phi": 145.0,
+    "roll": 0.0
+  },
+  "image_10.jpg": {
+    "theta": 0.0,
+    "phi": 160.0,
+    "roll": 0.0
+  },
+  "image_11.jpg": {
+    "theta": 0.0,
+    "phi": 180.0,
+    "roll": 0.0
+  },
+  "image_12.jpg": {
+    "theta": 0.0,
+    "phi": 200.0,
+    "roll": 0.0
+  },
+  "image_13.jpg": {
+    "theta": 0.0,
+    "phi": 215.0,
+    "roll": 0.0
+  },
+  "image_14.jpg": {
+    "theta": 0.0,
+    "phi": 235.0,
+    "roll": 0.0
+  },
+  "image_15.jpg": {
+    "theta": 0.0,
+    "phi": 250.0,
+    "roll": 0.0
+  },
+  "image_16.jpg": {
+    "theta": 0.0,
+    "phi": 270.0,
+    "roll": 0.0
+  },
+  "image_17.jpg": {
+    "theta": 0.0,
+    "phi": 290.0,
+    "roll": 0.0
+  },
+  "image_18.jpg": {
+    "theta": 0.0,
+    "phi": 305.0,
+    "roll": 0.0
+  },
+  "image_19.jpg": {
+    "theta": 0.0,
+    "phi": 325.0,
+    "roll": 0.0
+  },
+  "image_20.jpg": {
+    "theta": 0.0,
+    "phi": 340.0,
+    "roll": 0.0
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "image_01.jpg": {
+    "theta": 0.0,
+    "phi": 10.0,
+    "roll": 0.0
+  },
+  "image_02.jpg": {
+    "theta": 0.0,
+    "phi": 45.0,
+    "roll": 0.0
+  },
+  "image_03.jpg": {
+    "theta": 0.0,
+    "phi": 80.0,
+    "roll": 0.0
+  },
+  "image_04.jpg": {
+    "theta": 0.0,
+    "phi": 120.0,
+    "roll": 0.0
+  },
+  "image_05.jpg": {
+    "theta": 0.0,
+    "phi": 155.0,
+    "roll": 0.0
+  },
+  "image_06.jpg": {
+    "theta": 0.0,
+    "phi": 190.0,
+    "roll": 0.0
+  },
+  "image_07.jpg": {
+    "theta": 0.0,
+    "phi": 225.0,
+    "roll": 0.0
+  },
+  "image_08.jpg": {
+    "theta": 0.0,
+    "phi": 260.0,
+    "roll": 0.0
+  },
+  "image_09.jpg": {
+    "theta": 0.0,
+    "phi": 300.0,
+    "roll": 0.0
+  },
+  "image_10.jpg": {
+    "theta": 0.0,
+    "phi": 335.0,
+    "roll": 0.0
+  }
+}
