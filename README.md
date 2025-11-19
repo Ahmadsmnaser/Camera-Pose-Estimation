@@ -1,4 +1,4 @@
-# Simple Camera Pose Estimation (Aseel-style)
+# Simple Camera Pose Estimation 
 
 ## What we did
 - Used **MobileNetV2 (pretrained)** to extract 1280-D embeddings from images (center-crop 0.85 → 224×224).
